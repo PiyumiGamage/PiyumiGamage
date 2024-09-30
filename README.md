@@ -1,4 +1,4 @@
-[![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/fs/475eb095746151.5e9ecde695f7a.gif)]
+<img src="https://mir-s3-cdn-cf.behance.net/project_modules/fs/475eb095746151.5e9ecde695f7a.gif">
 
 <h1 align="center">Hi 👋, I'm Piyumi Gamage</h1>
 <h3 align="center">A passionate frontend developer</h3>
